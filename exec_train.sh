@@ -17,3 +17,4 @@ python src/main.py \
     --max_len=1024 \
     --max_turns=5 \
     --ckpt_dir="saved_models"
+    --ckpt_name=CKPT_NAME \
